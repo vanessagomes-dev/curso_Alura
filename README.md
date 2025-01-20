@@ -1,2 +1,2 @@
 # curso_Alura
-Repositório para atividades do curso 
+Repositório para atividades e desafios do curso Alura
